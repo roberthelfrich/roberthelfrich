@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roberthelfrich
 - 👀 I’m interested in music, nature, health, as well as anything coding and tech related
-- 🌱 I’m currently majoring in Computer Science @ University of Hamburg, Germany
+- 🌱 I’m currently majoring in Computer Science @ University of Freiburg, Germany
 - 💞️ I’m looking to collaborate on anything that'll push me out of my comfort zone 
 - 📫 You can best reach me via my professional email robertkhelfrich@gmx.de
 - 😄 Pronouns: he/him
